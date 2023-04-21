@@ -1,8 +1,8 @@
 ### Setup:
 
 ```
-git clone
-cd
+git clone git@github.com:daniel-enqz/Kublau-Test.git
+cd Kubleau-Test
 bundle install
 ```
 
